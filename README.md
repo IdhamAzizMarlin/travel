@@ -1,0 +1,2 @@
+# nomads
+Belajar laravel
